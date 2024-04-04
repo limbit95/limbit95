@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Skills <br>
+
 <a href="https://velog.io/@limbit/series" >
 <img target="_blank" src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=velog&logoColor=white"/>
 </a>
