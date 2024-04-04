@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Skills <br>
-<a href="https://velog.io/@limbit/series" target="blank">
+<a href="https://velog.io/@limbit/series" target="_blank">
 <img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 </a>
 
